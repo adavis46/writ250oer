@@ -1,0 +1,106 @@
+# Engaging Research Sources
+## Introduction 
+What kinds of research have you done for past classes? If you took Writing 102 at the University of Mississippi, you probably wrote a research-based argument paper that required you to use a certain number of academic sources. You may have used research to write papers in history or philosophy classes, too. There is more to research than just writing papers for classes, though. Research is required in all kinds of professions, both inside and outside of the academy. This class is all about research and writing within your own discipline, or major. Hopefully, the work you'll do for Writing 250 will influence how you think about the conversations that take place in your major classes. 
+
+There are many different approaches to research, but you'll probably use one of these two for your projects in this class: 
+
+1. You already have a vague topic in mind, and you want to find research sources to help you develop a specific research question. 
+2. If you already have a question in mind, you can use sources to start formulating an answer to the question. 
+Where you start probably depends on how familiar you are with the academic conversations taking place in your major. 
+ 
+Don't worry, though: after you finish the first major assignment, you'll have a much better understanding of how research works in your major. 
+
+This module is made up of several different types of media. First, you'll read an essay about how Google and Wikipedia are essential parts of the research process. Then, you'll learn more about what distinguishes an academic source from a non-academic source, and you'll conclude with a tour of library resources available to you here at UM. 
+
+## Googlepedia: Turning Information Behaviors into Research Skills
+Read this short article: [Googlepedia: Turning Information Behaviors into Research Skills](http://writingspaces.org/sites/default/files/mcclure--googlepedia.pdf)
+
+## What is a scholarly article?
+Watch this YouTube video: [What is a scholarly article?](https://www.youtube.com/watch?v=lVgScJ272D0). Captions are available. 
+
+## Scholarly vs. Popular Articles
+Watch this YouTube Vide. [Scholarly vs. Popular Articles](https://www.youtube.com/watch?v=Ud0U-NWuIj8). Captions are available. 
+
+## Determining Whether Sources are Academic, Professional, or Popular
+*CC-BY 2015 Karla Lyles and the WRIT 250 Curriculum Committee* 
+
+All of our writing assignments this semester require you to read academic and/or professional research and to integrate that research into your writing, but how do you know if a source is academic, professional, or popular? The information below is intended to help you understand the differences among academic, professional, and popular sources so that you can ensure you are meeting assignment requirements and drawing on the most reliable information for your projects. 
+
+**What is an academic source?**
+
+When we refer to an “academic” or “scholarly” source, we often are calling attention to that source having undergone a process known as peer review. Peer review is an approach to critiquing a manuscript submitted for publication and means that a group of academics (professors and/or others affiliated with universities) has received the manuscript, read and commented on it, and decided whether the manuscript should be accepted for publication, revised for potential future acceptance, or rejected. 
+
+Academic journals commonly rely on peer review to decide whether a manuscript should be published, and generally the process occurs like this: 
+
+1. An author submits his/her article manuscript to a journal;
+2. The journal editor determines whether the article draft meets the basic publication criteria of the journal and then selects a group of outside reviewers (often three or more) who are generally experts in the subject area to read and review the manuscript;
+3. The editor submits the manuscript to the reviewers who do not know the identity of the author (this is why peer review is sometimes referred to as a “blind review”) so that they can review the manuscript as objectively as possible;
+4. The reviewers read and write comments about the article that are sent to the editor along with the reviewers’ recommendations to either publish the manuscript as is (this rarely happens), to publish it with revisions, or to reject it for publication;
+5. The editor contacts the author to let him/her know the outcome of the review and to send along the reviewers’ feedback;
+6. If the article was accepted for publication as is then the author does not need to make changes to the manuscript and his/her article will appear in the journal at a later date;
+7. If the article was accepted for publication following revisions then the author must make changes to the manuscript resubmit the manuscript for another review, and then provided the changes are accepted the article will appear in the journal at a later date;
+8. If the article was rejected then it will not be published or considered further for possible publication. If the article is rejected then the author may choose to submit the article to another journal for review (manuscripts typically can only be reviewed by one journal at a time) or to revise or abandon the project.
+
+As you can tell, the process of peer review is rigorous and often lengthy, sometimes taking months to complete. It helps to ensure as much as possible that the proposed publication presents valid research that will interest the target audience—fellow academics. Some academic journals are more selective than others in terms of the percentage of submitted manuscripts they publish (for example, some journals may publish as little as 30% of manuscripts that are submitted whereas others may publish 50%), but regardless, the peer review process helps to try to ensure the quality of the research. 
+
+If you are uncertain whether a source you are considering using for an assignment is published in an academic journal then you can easily search Google for the journal’s title. Academic journals have webpages hosted by the publishers responsible for those journals (for example, publishers include Wiley-Blackwell, Routledge, Taylor & Francis, etc.), and the typical website for an academic journal will include the following sections:
+
+1. Aims and scope (this section of the site offers a brief summary/overview of the journal, including the topics the journal publishes about, the target audience(s) for the journal, the frequency of publication, etc.);
+2. Editorial board (this section of the site identifies the journal editor and his/her university affiliation as well as the names and university affiliations of the other members of the board);
+3. Submission guidelines or Instructions for authors (this section of the site explains how authors should format their manuscripts as well as the peer review process) 
+
+When consulting a journal’s website look for the above sections as well as the keywords “peer review.” An academic journal’s website also will commonly include an image of the front cover of the journal (typically appearing in the top left corner of the homepage), which you do not tend to see for other kinds of publications. 
+
+Now that you know some strategies for how to determine whether an article is an academic journal article, below are some strategies to help you determine whether a book or a website is scholarly as well. For our assignments you will primarily consult academic journal articles, but you may choose to integrate academic books or websites as additional resources with instructor permission. 
+
+When trying to decide whether a book is academic, search for information about the following: 
+
+1. Publisher (the name of the publisher of any book should be visible on the outside cover of the book and/or within the first few pages where all publication information is provided; if you cannot tell from the name itself that the publisher is academic, such as the University of Chicago Press, then search Google for the publisher name to see what information is available about the kinds of materials the company publishes);
+2. Author (some books include a “blurb” that identifies the university affiliation of the author if he/she is an academic, and often this blurb is found on the back cover; if this information is not available, though, then a Google search for the author’s name will often turn up a university faculty webpage if the author is an academic/still affiliated with a university);
+3. Audience (this is perhaps the hardest feature to determine, but to help you decide whether a book’s audience is academic, consider features of the book such as the chapter titles in the table of contents, the language used throughout the book that would suggest scholarly or highly technical knowledge, and the topics listed in the back index) 
+
+*Note that although textbooks are used in academic settings, they often are not considered “academic” sources because of their purposes. Whereas academic journal articles and books report original research to inform the field, textbooks generally focus on overviewing theories, events, figures, etc. For our class textbooks will not be “counted” as academic sources to fulfill assignment requirements, and in your other classes you should consult with your teachers to find out whether textbooks are considered “scholarly.” 
+
+Finally, how do you determine whether a website is an academic website? Consider the following when trying to decide whether a website is scholarly:
+
+1. URL of the site (if the URL ends with .edu that indicates the site has a university affiliation; .org and .com sites are rarely scholarly websites);
+2. Name of the person/group responsible for the site (often a website features an “About Me” or “About Us” section that will tell you the affiliation(s) of the site author(s); if necessary, search Google for the name(s) of the site author(s) to get further information);
+3. Appearance of the site (an academic site typically will have a more professional and streamlined appearance than a popular website, for example, which may have a bright color background, long lists of links, and font such as Comic Sans);
+4. Audience (the appearance of the site can suggest who the target audience is, but the content of the site will as well; read/skim the content to see what kind of language is used, whether formal/academic or more casual, as well as to see what kind of information is the focus)
+
+### What is a professional source?
+For all of your disciplines there are professional organizations that provide information for practitioners as well as perhaps the public. Although these organizations may conduct and publish their own research, that research is not necessarily carried out by academics or intended for academics. This does not mean that the information is unreliable; rather, it means that the purposes of the research are different as are the audience and process of publication (specifically, peer review is not necessarily used).
+
+As an example, if you access the website for the American Speech-Language-Hearing Association (http://www.asha.org/) you will see a link at the top of the page for “Research.” If you click that link you are then shown a directory of linked resources, and the titles of the linked pages suggest that the sources are meant for professionals (who would use these sources to inform their practice/work) rather than academics. For example, if you click “Key Steps in the EBP Process,” the page that appears list links for you that will provide practice-oriented information (framing a clinical question, gathering and assessing evidence, and making a decision). In general academics would probably not consult this information for their research since its focus is on how to perform certain professional tasks. When determining whether a source is professional, ask whether the source is intended to help the reader more effectively perform in his/her professional duties, offering “practical” information rather than more “theoretical” content and/or primary research.
+
+Websites that feature .org in their URLs tend to be professional/organizational sites rather than academic, and you can refer to the “About Us” section (if available) for further information to help you determine whether the site is maintained by a professional individual or group rather than a university-affiliated individual or group. Other common professional sources include manuals and handbooks (print and electronic), such as a guide instructing the reader on how to conduct an interview as a social worker, and additional print and electronic material that informs the reader about the state of the profession and how to successfully participate in it.
+
+### What is a popular source?
+In contrast to academic and (typically) professional sources, popular sources target the general public. You will notice that these sources tend to be more accessible in terms of ease of reading, using more casual language and providing content that the majority of people could understand. This is not to say that all popular sources are meant for the general public to read; for example, a blog is a common popular source and can be written for a group with highly specialized knowledge, such as mechanics. In general, though, popular sources can appeal to a much wider range of people than academic or professional sources. 
+
+Common popular sources include news and magazine articles (whether print or electronic), films/TV shows, trade books, etc.
+
+### Additional Resources: 
+
+http://library.uvic.ca/instruction/research/scholvpop.html
+This site includes a chart that shows the differences between scholarly and popular sources.
+
+http://www.library.arizona.edu/help/tutorials/scholarly/guide.html
+This site offers a guide that distinguishes between scholarly and popular articles. You can print a PDF version from the site as well as access a tutorial.
+
+http://www.library.wisc.edu/research-tips/article-scholarly-popular.html
+This site provides a list of questions you can ask to help you determine whether an article is scholarly.
+
+## UM Library Resources
+Watch excerpts from this YouTube playlist to learn about the UM library's research offerings. Videos 2 and 3 are the most relevant to this assignment: [Introduction to Library Resources](https://www.youtube.com/watch?list=PLG1HEDPHLuJs9yExEbgADWff1QV8PSeHT&v=sWCEqrzRzWA)
+
+## Kinds of Periodicals
+Read this PDF from the UM Library about  periodicals: [Kinds of Periodicals and Journals](assets/kindsofperiodicals.pdf)
+
+## Finding Periodicals in the Library
+Read this PDF from the UM Library about how to locate periodicals [Finding Journals in your Field or Discipline](assets/findingperiodicals.pdf)
+
+## Module Summary 
+Now you have a better understanding of the difference between academic and non-academic sources. You also know how you can use Google and Wikipedia as research tools, and you know about the J.D. Williams Library resources available to you for this course. Now you're ready to go on to learn the specifics of drafting the exploratory essay, and what you need to do to get started on the first major assignment. 
+
+

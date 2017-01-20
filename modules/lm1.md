@@ -1,4 +1,4 @@
-# Learning Module 1: Introduction to WRIT 250
+# Introduction to WRIT 250
 Welcome to Writing 250: Advanced Composition. My name is Andrew Davis, and I'm the instructor for this section. This section is online only. That means we won't meet face to face unless you want to meet with me individually. Our entire course will take place through Blackboard, Google Classroom and other digital spaces. The course is not self-paced, but it is designed to be flexible enough to fit your schedule. This module will guide you through everything you need to know to succeed in this course.
 
 ## What is Writing 250?
