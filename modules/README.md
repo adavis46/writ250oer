@@ -1,5 +1,5 @@
 # WRIT 250 OER Project: Learning Modules
-These learning modules were developed for a Summer 2015 online course. They combine original content, OER, and multimedia material. External materials are stored in the assets folder. All files are composed in markdown for easy conversion to HTML, RTF, or the LMS format of your choice. 
+These learning modules were developed for a Summer 2016 online course. They combine original content, OER, and multimedia material. External materials are stored in the assets folder. All files are composed in markdown for easy conversion to HTML, RTF, or the LMS format of your choice. 
 
 1. [Introduction to WRIT 250](lm01.md)
 2. [Critical Thinking and Critical Conversations](lm02.md) 
